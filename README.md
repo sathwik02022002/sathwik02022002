@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with **3+ years of experience** currently pursuing my **MS in Computer Science at NC State University** (GPA: 3.8 | Graduating May 2026). I specialize in full-stack development, cloud infrastructure, and building intelligent AI/ML systems.
+I'm a **Software Engineer** with **3+ years of experience** currently pursuing my **MS in Computer Science at NC State University** (GPA: 3.8 | Graduated May 2026). I specialise in full-stack development, cloud infrastructure, and building intelligent AI/ML systems.
 
 - 🧠 **Competitive programmer** — I think in clean Python and love elegant solutions
 - 🏋️ **Strength training enthusiast** — strict PPL split, no rest day vibes
@@ -107,8 +107,8 @@ I'm a **Software Engineer** with **3+ years of experience** currently pursuing m
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**MedScribe AI**](https://github.com/sathwik02022002/MedScribe-AI) | Transcribes doctor-patient audio → SOAP notes, ICD-10 codes & referral letters via RAG | Python, FastAPI, OpenAI Whisper, GPT-4o, pgvector, React, Docker |
-| **DocMind** | RAG Document Q&A platform with semantic search and MCP server integration | FastAPI, LangChain, pgvector, OpenAI |
-| **Multi-Agent DevOps Incident Response** | Autonomous incident triage with multi-agent orchestration | LangGraph, FastAPI, Redis, PostgreSQL, React, Kubernetes |
+| [**DocMind**](https://github.com/sathwik02022002/RAG-Q-A-Project) | RAG Document Q&A platform with semantic search and MCP server integration | FastAPI, LangChain, pgvector, OpenAI |
+| [**Multi-Agent DevOps Incident Response**](https://github.com/sathwik02022002/Story-Generator)  | Autonomous incident triage with multi-agent orchestration | LangGraph, FastAPI, Redis, PostgreSQL, React, Kubernetes |
 | **CI/CD Pipeline Automation** | Blue-green deployments with SAST integration | Jenkins, GitHub Actions, Ansible, Kubernetes |
 
 ---
@@ -119,7 +119,7 @@ I'm a **Software Engineer** with **3+ years of experience** currently pursuing m
 
 ### 🎯 Actively exploring SWE, DevOps, MLOps, and AI Engineering roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmuka-venkata-palakurty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-palakurty)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwikpalakurty02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathwik02022002)
 
