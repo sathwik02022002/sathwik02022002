@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with **3+ years of experience** currently pursuing my **MS in Computer Science at NC State University** (GPA: 3.8 | Graduated May 2026). I specialise in full-stack development, cloud infrastructure, and building intelligent AI/ML systems.
+I'm a **Software Engineer** with **3+ years of experience**, recently completed my **MS in Computer Science at NC State University** (GPA: 3.8 | Graduated May 2026). I specialise in full-stack development, cloud infrastructure, and building intelligent AI/ML systems.
 
 - 🧠 **Competitive programmer** — I think in clean Python and love elegant solutions
 - 🏋️ **Strength training enthusiast** — strict PPL split, no rest day vibes
